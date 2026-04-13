@@ -134,7 +134,7 @@ Developed as a project for exploring AI-assisted engineering workflows and autom
 
 ##  Output
 
-![Output Screenshot](Screenshot 2026-04-13 151342.png)
+![Image 1](Screenshot 2026-04-13 151342.png)
 ![Output Screenshot](Screenshot 2026-04-13 155658.png)
 ![Output Screenshot](Screenshot 2026-04-13 155716.png)
 ![Output Screenshot](Screenshot 2026-04-13 155729.png)
