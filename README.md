@@ -128,7 +128,7 @@ It helps reduce manual effort in processing RFQs and speeds up quotation generat
 
 ## 👨‍💻 Author
 
-Developed as a project for exploring AI-assisted engineering workflows and automation.
+Achyut Luitel, Developed as a project for exploring AI-assisted engineering workflows and automation.
 
 ---
 
